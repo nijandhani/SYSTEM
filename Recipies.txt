@@ -4,3 +4,4 @@ idly
 pasta
 dosa 
 halwa
+snacks
